@@ -1,0 +1,7 @@
+numpy==2.3.5
+scipy==1.18.1
+pandas==2.2.3
+torch==2.14.1
+matplotlib==3.11.2
+ipykernel==7.4.0
+threadpoolctl==3.7.0
